@@ -5,3 +5,7 @@
 .large-header{
   font-size: 72px;
 }
+
+.card-image-container img{
+  width: 80%;
+}
